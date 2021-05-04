@@ -5,7 +5,7 @@
 ### Tech </br>
 - **Languages:** Javascript, C#
 - **Frameworks:** VueJS, .Net
-- **Other:** MongoDb, Elasticsearch, MongoDb, Graphql
+- **Other:** MongoDb, Elasticsearch, MongoDb, Graphql, Redis
 - Just a simple use Azure and Firebase
 
 ### Contact </br>
