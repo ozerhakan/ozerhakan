@@ -1,5 +1,15 @@
 Hi there. I'm Hakan.</br>
-I'm a Software Developer from Istanbul/Turkey.
 
+Over 5 years of experience as a Software Developer
 
-📫 Contact from hakan@ozer.dev - hakanzr@gmail.com
+Tech
+Languages: Javascript, C#
+Frameworks: VueJS, .Net, 
+Other: MongoDb, Elasticsearch, MongoDb, 
+Just a simple use Azure and Firebase
+
+Contact
+✉️ hakanzr@gmail.com
+🌐 ozer.dev
+📰 https://hakanzr.medium.com/
+👔 https://www.linkedin.com/in/hakan-ozer/
