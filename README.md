@@ -4,12 +4,12 @@
 
 ### Tech </br>
 - **Languages:** Javascript, C#
-- **Frameworks:** VueJS, .Net
+- **Frameworks:** VueJS, NuxtJs, .Net Core
 - **Other:** MongoDb, Elasticsearch, Graphql, Redis
 - Just a simple use Azure and Firebase
 
 ### Contact </br>
 - ✉️ hakanzr@gmail.com
-- 🌐 ozer.dev
-- 📰 https://hakanzr.medium.com/
+- 🌐 ozerhakan.com
+- 📰 https://ozerhakan.medium.com/
 - 👔 https://www.linkedin.com/in/hakan-ozer/
